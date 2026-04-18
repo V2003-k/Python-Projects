@@ -2,6 +2,10 @@
 
 A simple command-line task tracker written in Python. Tasks are stored locally in `Tasks/tasks.json` and managed through a text-based menu.
 
+## Project URL
+
+https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - Add new tasks
